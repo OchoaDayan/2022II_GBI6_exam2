@@ -14,4 +14,4 @@ Memoria: 8192MB RAM
 Versión de Python: 3.10
 
 Explicación de la data
-Datos de secuencias parciales mitocondriales de coaties que viven en diferentes paises de sudamerica. 
+Datos de secuencias parciales mitocondriales de coaties que habitan en diferentes paises de sudamerica. 
